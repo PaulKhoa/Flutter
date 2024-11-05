@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "node-mailjet": "^6.0.6"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "baitaptuan2",
+  "description": "A new Flutter project.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435888503825",
+    "project_id": "react-native-e0568",
+    "storage_bucket": "react-native-e0568.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435888503825:android:be225958b64f1cb36045b0",
+        "android_client_info": {
+          "package_name": "com.example.baitaptuan2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJsJMa5J0N8fj2Ys8wX2sS7Vz77bwIlrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
